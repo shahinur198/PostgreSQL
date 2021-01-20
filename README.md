@@ -20,3 +20,6 @@ https://www.postgresql.org/download/linux/ubuntu/
 
 
 https://postgresapp.com/
+
+Video
+https://www.youtube.com/watch?v=-LwI4HMR_Eg
