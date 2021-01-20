@@ -17,3 +17,6 @@ https://towardsdatascience.com/connect-to-postgresql-database-server-using-psyco
 
 
 https://www.postgresql.org/download/linux/ubuntu/
+
+
+https://postgresapp.com/
