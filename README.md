@@ -23,3 +23,8 @@ https://postgresapp.com/
 
 Video
 https://www.youtube.com/watch?v=-LwI4HMR_Eg
+
+
+https://tableplus.com/blog/2018/06/postgresql-data-types.html
+
+https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/
